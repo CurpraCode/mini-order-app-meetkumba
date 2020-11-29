@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### HOW THE CODE WORKS
+
+The user page and the summary of order page consist of data fetch from kumba API that provides the data contained in the app, which can change whenever the JSON data of the API changes.
+
 ## Available Scripts
 
 In the project directory, you can run:

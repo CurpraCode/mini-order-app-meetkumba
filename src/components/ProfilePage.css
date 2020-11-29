@@ -1,0 +1,31 @@
+.profile-box {
+  text-align: center;
+  margin-top: 3%;
+  margin-left: 30%;
+  margin-right: 30%;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding-bottom: 2%;
+  padding-top: 2%;
+}
+img {
+  border-radius: 60%;
+  width: 19%;
+}
+
+.order-box,
+h3,
+button {
+  margin-top: 5%;
+}
+
+h3,
+p {
+  margin-bottom: 10px;
+}
+.para {
+  margin-bottom: 2px;
+}
+ul {
+  margin-top: 5px;
+}
